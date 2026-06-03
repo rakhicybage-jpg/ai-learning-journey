@@ -9,10 +9,10 @@
 ---
 
 ## 📍 Current Status
-- **Current Day:** Day 9 ✅
+- **Current Day:** Day 10 ✅
 - **Current Phase:** Phase 1 — Foundation Bridge
-- **Last completed:** Confusion Matrix, Feature Importance (Random Forest)
-- **Next up:** Day 10 — Regression (House Price Prediction)
+- **Last completed:** Regression — House Price Prediction
+- **Next up:** Day 11 — Feature Engineering
 - **GitHub:** https://github.com/rakhicybage-jpg/ai-learning-journey
 
 ---
