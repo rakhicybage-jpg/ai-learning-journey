@@ -9,10 +9,10 @@
 ---
 
 ## 📍 Current Status
-- **Current Day:** Day 11 ✅
+- **Current Day:** Day 13 ✅
 - **Current Phase:** Phase 1 — Foundation Bridge
-- **Last completed:** Feature Engineering
-- **Next up**: Day 12 - Cross Validation
+- **Last completed:** Comparing ML Models
+- **Next up**: Day 14 - Data Preprocessing
 - **GitHub:** https://github.com/rakhicybage-jpg/ai-learning-journey
 
 ---
