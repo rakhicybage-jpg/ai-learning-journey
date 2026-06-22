@@ -9,10 +9,10 @@
 ---
 
 ## 📍 Current Status
-- **Current Day:** Day 13 ✅
+- **Current Day:** Day 14 ✅
 - **Current Phase:** Phase 1 — Foundation Bridge
-- **Last completed:** Comparing ML Models
-- **Next up**: Day 14 - Data Preprocessing
+- **Last completed:** Last completed: Data Preprocessing & Feature Scaling
+- **Next up**: Day 15 - Sklearn Pipelines
 - **GitHub:** https://github.com/rakhicybage-jpg/ai-learning-journey
 
 ---
