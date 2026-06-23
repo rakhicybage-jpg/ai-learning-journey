@@ -2,12 +2,6 @@
 **Tailored for: PHP / WordPress / Drupal Developer → AI Engineer**
 **Total journey: ~18 months | 4 Phases**
 
-> 📌 **How to use this file:**
-> Paste this at the start of every Claude session so your mentor knows exactly where you are.
-> Update the `Current Status` section after every day of learning.
-
----
-
 ## 📍 Current Status
 - **Current Day:** Day 14 ✅
 - **Current Phase:** Phase 1 — Foundation Bridge
