@@ -88,5 +88,17 @@
 4. Always compare multiple models — never assume one always wins
 5. Use Cross Validation for honest comparison
 6. Check feature importance after training
+
+**Feature Scaling**
+- Definition: Converting all features to same range so no feature dominates
+- Why: Distance-based models measure distances — big numbers dominate unfairly
+- Example: Fare=512 dominated Age=80 → after scaling both = 0 to 1
+- Models that need scaling: KNeighbors, SVC
+- Models that don't need scaling: Random Forest, Decision Tree
+
+**MinMaxScaler**
+- Definition: Converts all values to range 0-1
+- fit_transform on training data → transform only on test data
+- Result: KNeighbors 69% → 81%, SVC 67% → 81%
 7. Large gap between train/test = overfitting
 8. Both scores low = underfitting
