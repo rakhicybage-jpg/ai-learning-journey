@@ -102,3 +102,15 @@
 - Result: KNeighbors 69% → 81%, SVC 67% → 81%
 7. Large gap between train/test = overfitting
 8. Both scores low = underfitting
+
+**Pipeline**
+- Definition: Chains multiple steps (scaling + model) into one object
+- Why: Can never forget preprocessing steps
+- Example: scaler → KNeighbors in one pipeline
+- Result: SVC jumped from 67% to 82% with pipeline!
+
+**StandardScaler**
+- Definition: Centers data around 0 using average
+- Better than MinMaxScaler for most ML models
+- Above average → positive, Below average → negative
+  
