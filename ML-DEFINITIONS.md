@@ -113,4 +113,6 @@
 - Definition: Centers data around 0 using average
 - Better than MinMaxScaler for most ML models
 - Above average → positive, Below average → negative
+
+**"Worst model can work with highest accuracy using preprocessing, and Pipeline makes sure scaling is never missed."**
   
