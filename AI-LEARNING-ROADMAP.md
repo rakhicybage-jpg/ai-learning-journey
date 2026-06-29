@@ -3,10 +3,10 @@
 **Total journey: ~18 months | 4 Phases**
 
 ## 📍 Current Status
-- **Current Day:** Day 14 ✅
+- **Current Day:** Day 15 ✅
 - **Current Phase:** Phase 1 — Foundation Bridge
-- **Last completed:** Last completed: Data Preprocessing & Feature Scaling
-- **Next up**: Day 15 - Sklearn Pipelines
+- **Last completed:** Sklearn Pipelines
+- **Next up**: Day 16 - Mini Project (end-to-end ML)
 - **GitHub:** https://github.com/rakhicybage-jpg/ai-learning-journey
 
 ---
